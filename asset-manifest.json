@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/2048-react/static/css/main.9374b9a5.css",
+    "main.js": "/2048-react/static/js/main.147c09ad.js",
+    "index.html": "/2048-react/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.9374b9a5.css",
+    "static/js/main.147c09ad.js"
+  ]
+}
